@@ -2,14 +2,20 @@
 
 [![CC BY 4.0][cc-by-shield]][cc-by]
 
-This repository aims to make the Open Life Science (OLS-2) videos and captions accessible, re-useable, and encourage further translation in other languages beyond English and Arabic. All original videos are available in [Open LifeSci YouTube channel](https://www.youtube.com/channel/UCs12-ZgnDJOWIWN3Vo1XHXA). This project was initiated by [Talarify](https://twitter.com/talarify?lang=en) and [Open Science Community in Saudi Arabia](https://twitter.com/OpenSciSaudi) to facilitate learning of Open science practices to novice learners. 
+This repository aims to promote academic publishing in natural and life sciences :hosted in the OLS platform domain (that we choose to be www.openlibscien.org) for promoting academic. The Open Library of Science (OLS) can either publish or fund a journal to become fully gold open-access with no author-facing charges. We will welcome applications from any journals that meet the following requirements:-
+
+- Are peer reviewed.
+- Are academic journals based in either Nigeria or abroad
+- Have been established for at least five years.
+- Are currently funded through a subscription model.
+- Are based in a sciences discipline, as self-defined by authors and editors.
+- Have an international editorial board.
+In addition, we will have a preference for journals that are owned by a learned society. If your journal meets the above requirements, we would be very happy to discuss options to take on publication ourselves by OLS. 
 
 
 ## Contributing :gift_heart:
 
-We welcome all contributions to improve this project especially first timers to expand the translation! 
-
-You don't need to know git to start contributing, we use [Crowdin localisation](https://crowdin.com/project/ols3), which enables you translate strings of SRT file while watching video and adding contect to your translation. More details are added to our [Contribution Guide](CONTRIBUTING.md).
+We welcome all contributions to improve this project. We also added more details to our [Contribution Guide](CONTRIBUTING.md).
 
 ![](imgs/crowdin-gif.gif)
 
