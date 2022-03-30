@@ -1,12 +1,9 @@
 # open-library-of-science
 
 [![CC BY 4.0][cc-by-shield]][cc-by]
-[![DOI](https://zenodo.org/badge/378213391.svg)](https://zenodo.org/badge/latestdoi/378213391)
-[![Crowdin](https://badges.crowdin.net/ols2/localized.svg)](https://crowdin.com/project/ols2)
 
 This repository aims to make the Open Life Science (OLS-2) videos and captions accessible, re-useable, and encourage further translation in other languages beyond English and Arabic. All original videos are available in [Open LifeSci YouTube channel](https://www.youtube.com/channel/UCs12-ZgnDJOWIWN3Vo1XHXA). This project was initiated by [Talarify](https://twitter.com/talarify?lang=en) and [Open Science Community in Saudi Arabia](https://twitter.com/OpenSciSaudi) to facilitate learning of Open science practices to novice learners. 
 
-> **You can you to explore important Open Science concepts and topics in no more than 10-15 minutes.**
 
 ## Contributing :gift_heart:
 
