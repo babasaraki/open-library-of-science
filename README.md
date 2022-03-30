@@ -17,14 +17,9 @@ In addition, we will have a preference for journals that are owned by a learned 
 
 We welcome all contributions to improve this project. We also added more details to our [Contribution Guide](CONTRIBUTING.md).
 
-![](imgs/crowdin-gif.gif)
-
-Maintainers will do their best to help you if you have any
-questions, concerns, or experience any difficulties along the way.
-
 ## Maintainer(s)
 
-Current maintainer of this project is:
+Maintainers will do their best to help you if you have any questions, concerns, or experience any difficulties along the way. Current maintainer of this project is:
 
 * [Umar Ahmad](https://github.com/babasaraki)
 
